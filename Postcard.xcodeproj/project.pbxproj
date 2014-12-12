@@ -13,6 +13,8 @@
 		8921400C1A38815900472AA8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8921400B1A38815900472AA8 /* Images.xcassets */; };
 		8921400F1A38815900472AA8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8921400D1A38815900472AA8 /* LaunchScreen.xib */; };
 		8921401B1A38815A00472AA8 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8921401A1A38815A00472AA8 /* PostcardTests.swift */; };
+		892140251A389C0100472AA8 /* Burns_on_Ayr_Postcard_1899.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 892140241A389C0100472AA8 /* Burns_on_Ayr_Postcard_1899.jpg */; };
+		892140271A38A16400472AA8 /* greetings_from_haiti___postcard_by_t_werca-d65gas9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 892140261A38A16400472AA8 /* greetings_from_haiti___postcard_by_t_werca-d65gas9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		892140141A38815A00472AA8 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		892140191A38815A00472AA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8921401A1A38815A00472AA8 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		892140241A389C0100472AA8 /* Burns_on_Ayr_Postcard_1899.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Burns_on_Ayr_Postcard_1899.jpg; sourceTree = "<group>"; };
+		892140261A38A16400472AA8 /* greetings_from_haiti___postcard_by_t_werca-d65gas9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "greetings_from_haiti___postcard_by_t_werca-d65gas9.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		892140021A38815900472AA8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				892140261A38A16400472AA8 /* greetings_from_haiti___postcard_by_t_werca-d65gas9.jpg */,
+				892140241A389C0100472AA8 /* Burns_on_Ayr_Postcard_1899.jpg */,
 				892140031A38815900472AA8 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +198,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				892140271A38A16400472AA8 /* greetings_from_haiti___postcard_by_t_werca-d65gas9.jpg in Resources */,
 				8921400A1A38815900472AA8 /* Main.storyboard in Resources */,
 				8921400F1A38815900472AA8 /* LaunchScreen.xib in Resources */,
 				8921400C1A38815900472AA8 /* Images.xcassets in Resources */,
+				892140251A389C0100472AA8 /* Burns_on_Ayr_Postcard_1899.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
